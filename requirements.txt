@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 streamlit==1.45.1
 
 langchain==0.3.25
@@ -19,17 +18,3 @@ python-dotenv==1.0.1
 pypdf==5.5.0
 PyPDF2==3.0.1
 openai==1.79.0
-=======
-streamlit
-langchain
-langchain-groq
-langchain-openai
-langchain-community
-langchain-core
-python-dotenv
-faiss-cpu
-PyPDF2
-openai
-langchain-huggingface
-pypdf
->>>>>>> b2e78943238d6e5bd4c648f27340b8305fb52e2f
