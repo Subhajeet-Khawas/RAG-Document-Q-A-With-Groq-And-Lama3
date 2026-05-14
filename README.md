@@ -1,4 +1,4 @@
-# RAG Document Q&A With Groq And Llama3
+# RAG Document Q&A With Groq And GPT OSS
 
 This project is a **Retrieval-Augmented Generation (RAG) system** that allows users to upload PDF documents and ask queries based on the content. The system leverages **Groq's Llama 3 model** and **FAISS-based vector search** for efficient retrieval and question-answering.
 
