@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+env101/
+
+# Environment variables
+.env
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Mac
+.DS_Store
+
+# FAISS / embeddings cache
+*.faiss
+*.pkl
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/

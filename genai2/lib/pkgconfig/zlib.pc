@@ -1,0 +1,13 @@
+prefix=/Users/subhajeetkhawas/Desktop/UdemyGenAIKN/Projects/Project2/Project2/genai2
+exec_prefix=/Users/subhajeetkhawas/Desktop/UdemyGenAIKN/Projects/Project2/Project2/genai2
+libdir=/Users/subhajeetkhawas/Desktop/UdemyGenAIKN/Projects/Project2/Project2/genai2/lib
+sharedlibdir=/Users/subhajeetkhawas/Desktop/UdemyGenAIKN/Projects/Project2/Project2/genai2/lib
+includedir=/Users/subhajeetkhawas/Desktop/UdemyGenAIKN/Projects/Project2/Project2/genai2/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
