@@ -64,11 +64,9 @@ def process_uploaded_pdfs(uploaded_files):
         st.session_state.vectors = FAISS.from_documents(final_documents, st.session_state.embeddings)
         st.session_state.final_documents = final_documents
 
-<<<<<<< HEAD
+
 st.title("RAG Document Q&A With Groq And GPT-OSS")
-=======
-st.title("RAG Document Q&A With Groq And Lama3")
->>>>>>> b2e78943238d6e5bd4c648f27340b8305fb52e2f
+
 
 # File uploader for PDFs
 uploaded_files = st.file_uploader("Upload PDF files", type="pdf", accept_multiple_files=True)
