@@ -3,7 +3,7 @@
 This project is a **Retrieval-Augmented Generation (RAG) system** that allows users to upload PDF documents and ask queries based on the content. The system leverages **Groq's Llama 3 model** and **FAISS-based vector search** for efficient retrieval and question-answering.
 
 ## Web app URL:
-https://rag-document-q-a-with-groq-and-lama3.streamlit.app
+https://rag-document-q-a-with-groq-and-gpt-oss.streamlit.app/
 
 
 ## Features
